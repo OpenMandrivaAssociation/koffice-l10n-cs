@@ -1,6 +1,6 @@
 Name: koffice-l10n-cs
 Version: 2.0.82
-Release: %mkrel 2
+Release: 3
 Summary: Language files for KOffice Czech
 Group: System/Internationalization
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
